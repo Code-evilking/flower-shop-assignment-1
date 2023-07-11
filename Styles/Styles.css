@@ -1,0 +1,199 @@
+/* Section 1 Design*/
+.head{
+     background-color:#E554731A ;
+     justify-content: space-between;
+}
+.banner{
+    display: flex;
+    margin-left: 200px;
+    padding: 300px 250px 0px ;
+    justify-content: center;
+align-items: center;
+    
+}
+.first-title{
+     display: flex
+     color : #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;    
+}
+.first-dis{
+    
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.first-button {
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: white;
+    padding: 25px 35px 25px 35px ;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 25px;
+}
+
+.image-part-1 {
+    display: block;
+    margin-right: 500px;
+    margin-left: auto;
+
+}
+
+/* section 2 design {main} */
+.main-section {
+    padding: 130px;
+    text-align: center;
+}
+.section-title {
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.section-discription{
+    display: flex;
+
+flex-direction: column;
+flex-shrink: 0;
+text-align: center;
+}
+.image-part-2{
+            display: flex;
+            padding: 200px 200px 0px 250px;
+            justify-content: space-around;
+            gap: 25px;
+            
+
+}
+.img-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.img-2{
+
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+
+}
+.img-3{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+
+}
+.flower-name{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    
+}
+.image-part-3{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.box{
+    width: 1150px;
+    height: 200px;
+    border: none;
+    border-radius: 10px;
+background: rgba(39, 39, 39, 0.05);
+margin-left: 719px;
+margin-top: 200px;
+display: flex;
+}
+
+.service{
+    color: rgba(39, 39, 39, 0.80);
+text-align: bottom left;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px;
+justify-content: space-between;
+padding: auto;
+align-items: center;
+}
+/* 4th part */
+
+.color{ background-color:#E554731A ;
+     justify-content: space-between;
+}
+.banner-2{
+    
+    display: block;
+    margin-top: 130px;
+    margin-left: 200px;
+    padding: 230px 250px 30px ;
+    width: 1922px;
+    height: 620px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.span{
+    color: rgba(229, 84, 115, 1);
+}
+.title-1{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+
+}
+.title-discription-1{
+    display: flex;
+width: 800px;
+flex-direction: column;
+flex-shrink: 0;
+font-size: larger;
+
+}
+.button-2{
+    /* display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px; */
+border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: white;
+    padding: 25px 35px 25px 35px ;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 25px;
+}
+.img-deal{
+    display: block;
+    margin-right: 500px;
+    margin-left: auto;
+    justify-content: center;
+align-items: center;
+
+    
+}
