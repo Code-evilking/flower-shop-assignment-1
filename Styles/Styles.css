@@ -13,10 +13,9 @@ align-items: center;
 }
 .first-title{
      display: flex
-     color : #272727;
-font-family: Lato;
-font-size: 80px;
-font-style: normal;
+     color: #272727;
+     font-size: 80px; 
+    font-style: normal;
 font-weight: 800;
 line-height: normal;    
 }
@@ -195,5 +194,32 @@ border-radius: 8px;
     justify-content: center;
 align-items: center;
 
-    
+}
+/* 5th part */
+.insta-a {
+    color: ;
+}
+.insta-tilte{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.insta-discription{
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-size: larger;
+    text-align: center;
+}
+/* 6th part */
+.intsagram{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 24px;
+    text-shadow: #272727;
 }
